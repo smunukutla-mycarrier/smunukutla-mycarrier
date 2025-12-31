@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Senior DevSecOps Engineer specializing in Kubernetes and cloud-native platforms, with Golang experience for building secure, scalable infrastructure at scale.
+I'm a Senior DevSecOps Engineer specializing in cloud-native platforms and Kubernetes, with Golang experience for building secure, scalable infrastructure at scale.
 
 ## About Me
 
