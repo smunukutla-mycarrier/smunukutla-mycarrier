@@ -16,10 +16,6 @@ I'm a Senior DevSecOps Engineer specializing in Kubernetes and cloud-native plat
 - **Cloud & Infrastructure**: Multi-cloud architecture, infrastructure as code, containerization
 - **CI/CD**: Pipeline automation, GitOps, deployment strategies, event-driven systems
 
-## Open Source
-
-I believe in giving back to the community through open source contributions. Check out my repositories and contributions.
-
 ## Connect
 
 Feel free to reach out for collaboration on DevSecOps, platform engineering, or open source projects.
